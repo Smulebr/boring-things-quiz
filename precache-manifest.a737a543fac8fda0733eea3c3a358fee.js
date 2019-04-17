@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/boring-things-quiz/static/media/07263 Nähmaschine-min.d7e8015d.jpg"
   },
   {
-    "revision": "db79d47e5e23250e223f",
-    "url": "/boring-things-quiz/static/css/main.a914caa2.chunk.css"
+    "revision": "4cae86a9b69817b75742",
+    "url": "/boring-things-quiz/static/css/main.6986eddd.chunk.css"
   },
   {
     "revision": "6ac487857c0fd96b96a3",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/boring-things-quiz/static/media/06413b Rechenmaschine-min.a8bb8675.jpg"
   },
   {
-    "revision": "db79d47e5e23250e223f",
+    "revision": "4cae86a9b69817b75742",
     "url": "/boring-things-quiz/static/js/main.b1a66b02.chunk.js"
   },
   {
@@ -188,7 +188,7 @@ self.__precacheManifest = [
     "url": "/boring-things-quiz/static/css/2.00aa7633.chunk.css"
   },
   {
-    "revision": "bc1cae7b93f7963db34f63a54e24d793",
+    "revision": "cb48bfd950033ad9100a7face1af3ab1",
     "url": "/boring-things-quiz/index.html"
   }
 ];
