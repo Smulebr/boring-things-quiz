@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/boring-things-quiz/precache-manifest.1eb353071a30b23f4f455b943045f43c.js"
+  "/boring-things-quiz/precache-manifest.84d8f0e2c61242e5df0f4a8c70b7c5b2.js"
 );
 
 workbox.clientsClaim();
