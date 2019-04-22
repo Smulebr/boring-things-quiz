@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/boring-things-quiz/static/media/06413b Rechenmaschine.382a9b07.jpg"
   },
   {
-    "revision": "2e7b8049e88c46ee9ce9",
+    "revision": "448eeed58729ffbc3d85",
     "url": "/boring-things-quiz/static/css/main.2c9bc06c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/boring-things-quiz/static/media/torx-bits-metal-iron-60049.ae0b9170.jpeg"
   },
   {
-    "revision": "0633d62a598cca2b40e5",
-    "url": "/boring-things-quiz/static/js/2.5c0cb931.chunk.js"
+    "revision": "74198d7a0ba7e5616306",
+    "url": "/boring-things-quiz/static/js/2.24d06aab.chunk.js"
   },
   {
     "revision": "8c1bfeb09928eaa222c59861e0dfed6e",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/boring-things-quiz/static/media/05611_Nachtstuhl.a6dd6db9.jpg"
   },
   {
-    "revision": "2e7b8049e88c46ee9ce9",
-    "url": "/boring-things-quiz/static/js/main.2d826120.chunk.js"
+    "revision": "448eeed58729ffbc3d85",
+    "url": "/boring-things-quiz/static/js/main.a42bc27f.chunk.js"
   },
   {
     "revision": "49d03f7242fb99354e5ecd009a536a2e",
@@ -192,11 +192,11 @@ self.__precacheManifest = [
     "url": "/boring-things-quiz/static/media/pexels-photo-194101.9cbab354.jpeg"
   },
   {
-    "revision": "0633d62a598cca2b40e5",
+    "revision": "74198d7a0ba7e5616306",
     "url": "/boring-things-quiz/static/css/2.00aa7633.chunk.css"
   },
   {
-    "revision": "51398054a2ecb274a4369517f7cd2a9c",
+    "revision": "217bb1f0a17dca470b61a670f3058c60",
     "url": "/boring-things-quiz/index.html"
   }
 ];
